@@ -4,11 +4,18 @@
 
 # 運用ルール
 
+・問題作成側は解答コードまで書く (問題作成時のコメントアウトは最小限で良い、解説作成者が必要に応じて追加)
+
+・問題作成者の名前を問題の末尾に記載しておく。　(最終化の時点では消します)
+
 ・問題作成後はongoingフォルダにQ_00x.ipynbを作成
 
-・回答作成後はreviewingフォルダにQ_00x.ipynbを移動
+・解答作成後はreviewingフォルダにQ_00x.ipynbを移動
 
 ・レビュー完了後はcompletedフォルダにQ_00x.ipynbを移動しqiskit_100knocks.ipynbおよびqiskit_100knocks_answer.ipynbに追記
+
+・その他規約
+https://app.box.com/file/1170964855823?s=mb6k4ny3gxi89bxh6guv16dr89pr66lq 
 
 
 # 今後の予定
